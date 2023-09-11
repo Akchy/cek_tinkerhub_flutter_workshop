@@ -1,0 +1,31 @@
+term - vehicle {wheels}
+-> 2
+    -> Scooty
+    -> Bike
+-> 4
+    -> Car // class Car extends 4
+        -> Family // class Family extends Car
+            -> Maruti Suzuki 800 // class maruti800 extends Family
+            -> Hyundai i20
+            -> Tata Nano
+        -> Sedan
+            -> Honda City
+            -> Toyota Innova
+        -> SUV
+-> Multi
+    -> Train
+
+
+
+Function
+
+to purchase curd
+
+get money
+go to store
+purchase curd
+come back home
+deliver it to mom
+
+
+
